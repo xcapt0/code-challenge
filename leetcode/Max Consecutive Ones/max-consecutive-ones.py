@@ -4,8 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # string = ''.join(str(num) for num in nums).split('0')
-        # return max([len(s) for s in string])
         max_range = 0
         count = 0
         for num in nums:
