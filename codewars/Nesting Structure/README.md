@@ -1,4 +1,4 @@
-# Nesting Structure
+# Nesting Structure Comparison
 
 ### Link to the challenge https://www.codewars.com/kata/520446778469526ec0000001
 
